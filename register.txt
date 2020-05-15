@@ -1,3 +1,7 @@
 2018 1 ict60-123 iot B+
 2019 2 ict60-222 Web design A
 2020 1 ict60-223 Nosql A
+
+2019 2 ict60-223 Network B+
+2019 3 ict60-223 Network B+
+2020 1 ict60-365 Data B+
